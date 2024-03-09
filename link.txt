@@ -1,0 +1,5 @@
+link and data for accessing the paper entitled:
+
+"Exoplanet Classification Through Machine Learning: A Comparative Analysis of Algorithms Using Kepler Data"
+
+link: https://colab.research.google.com/drive/1k4lORx5VRJIneHGU54goF-_3Ga25gWUe
